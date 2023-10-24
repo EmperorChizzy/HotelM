@@ -1,0 +1,5 @@
+package org.example.enums;
+
+public enum Role {
+    RECEPTIONIST, MANAGER, SUPERVISOR, ACCOUNTANT, CLEANER, SECURITY, BARMAN, SECRETARY
+}
